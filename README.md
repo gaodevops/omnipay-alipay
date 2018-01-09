@@ -23,7 +23,7 @@ processing library for PHP. This package implements Alipay support for Omnipay.
 Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply add it
 to your `composer.json` file:
 
-    "lokielse/omnipay-alipay": "^2.0",
+    "gaodevops/omnipay-alipay": "^2.0",
 
 And run composer to update your dependencies:
 
